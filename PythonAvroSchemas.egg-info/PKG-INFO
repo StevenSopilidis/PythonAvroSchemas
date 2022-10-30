@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: PythonAvroSchemas
+Version: 1.0
+Summary: Library containing the python classes that represent avro schemas used in HelpSociety project
+Home-page: https://github.com/StevenSopilidis/PythonAvroSchemas
+Download-URL: https://github.com/StevenSopilidis/PythonAvroSchemas/archive/refs/tags/v1.0.0-alpha.tar.gz
+Author: Steven Sopilidis
+Author-email: stefanossopilidis2003@gmail.com
+License: MIT
+Keywords: Avro Schemas
+Classifier: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+License-File: LICENCE.txt
