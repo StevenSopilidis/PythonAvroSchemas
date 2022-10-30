@@ -1,1 +1,0 @@
-from UserCreatedEvent import UserCreatedEvent
