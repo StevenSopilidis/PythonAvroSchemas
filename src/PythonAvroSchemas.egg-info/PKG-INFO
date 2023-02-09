@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: PythonAvroSchemas
-Version: 1.0.1
+Version: 1.0.2
 Summary: Library containing the python classes that represent avro schemas used in HelpSociety project
 Home-page: https://github.com/StevenSopilidis/PythonAvroSchemas
 Download-URL: https://github.com/StevenSopilidis/PythonAvroSchemas/archive/refs/tags/v1.0.0-alpha.tar.gz
