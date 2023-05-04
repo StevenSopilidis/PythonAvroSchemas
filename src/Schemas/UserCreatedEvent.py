@@ -1,5 +1,3 @@
 class UserCreatedEvent: 
-	Id=None
+	Username=None
 	Email=None
-	Bio=None
-	Image=None
